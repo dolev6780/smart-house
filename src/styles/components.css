@@ -1,0 +1,33 @@
+.card{
+    height: 100px;
+    width: 100px;
+}
+
+#titlebtn{
+    font-size: large;
+    color: white;
+}
+
+#grid{
+    width: 200px;
+}
+
+#addRoomdform{
+    margin-top: 100px;
+}
+
+.popup-title{
+    background-color: rgb(0, 131, 238);
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    }
+
+#addproductbtn{
+    background-color: rgb(0, 131, 238);
+    color: white;
+}
+
+.gridBox{
+    display: inline-block;
+}
